@@ -7,7 +7,8 @@ This application is created using Laravel FrameWork And Pusher Service by Abderr
 Firstly you Must install composer by write this code on your terminal
 <code> composer install </code> </br>
 
-And You must install npm using this code <code> npm install </code>
+And You must install npm using this code <code> npm install </code></br>
+And last you must create database and migrate it in <code>.env</code> file and run this code on your terminal project <code>$ php artisan migrate</code>
 
 ## How to Use
 
